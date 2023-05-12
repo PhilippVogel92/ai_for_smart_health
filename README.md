@@ -1,3 +1,6 @@
+### Fork of the study course of Florian Huber
+##### Author: Florian Huber
+
 # Intelligent Systems for Smart Health
 Materials and tests to support the course at Düsseldorf University of Applied Sciences (HSD).
 
