@@ -11,10 +11,10 @@ dependencies:
   - tqdm
   - pytest
   - pip:
-    - jupyter
-    - lifelines
-    - matplotlib
-    - opencv-python
-    - pydotplus
-    - spyder>=5.*
-    - lightgbm
+      - jupyter
+      - lifelines
+      - matplotlib
+      - opencv-python
+      - pydotplus
+      - spyder>=5.*
+      - lightgbm
